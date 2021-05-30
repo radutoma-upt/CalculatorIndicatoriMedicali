@@ -1,4 +1,4 @@
-# CalculatorIndicatoriMedicali
+# Calculator Indicatori Medicali
 Am creat o aplicatie care calculeaza anumiti indicatori „medicali”: 
 •	Indicele Masei Corporale;
 •	Greutatea Ideala;
